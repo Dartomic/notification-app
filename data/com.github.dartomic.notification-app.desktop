@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Notifications
+GenericName=Notification App
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.dartomic.notification-app
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example,notification;
+X-GNOME-UsesNotifications=true
