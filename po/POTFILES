@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.dartomic.notification-app.desktop.in
+data/com.github.dartomic.notification-app.appdata.xml.in
